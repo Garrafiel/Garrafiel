@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 Ciência & Programação
 
 <div align="center">
